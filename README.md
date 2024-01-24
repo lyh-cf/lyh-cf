@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&height=55&lines=Hi+there+%F0%9F%91%8B%EF%BC%8C;Welcome+to+My+Profile%EF%BC%8C;I+am+Luo+Yi+Heng%EF%BC%8C;A+back-end+developer+working+his+way+up+to+the+top%EF%BC%8C;I+hope+to+exchange+and+learn+with+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=620&height=200&lines=Hi+there+%F0%9F%91%8B%EF%BC%8C;Welcome+to+My+Profile%EF%BC%8C;I+am+Luo+Yi+Heng%EF%BC%8C;A+back-end+developer+working+his+way+up+to+the+top%EF%BC%8C;I+hope+to+exchange+and+learn+with+you%EF%BC%81)](https://github.com/lyh-cf)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
