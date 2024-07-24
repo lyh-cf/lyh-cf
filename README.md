@@ -12,12 +12,7 @@
 </p>
 <hr>
 
-<div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div></p>
 <!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lyh-cf&no-frame=true" /> </div> -->
-
-<div  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lyh-cf&show_icons=true&theme=github_dark&cache_seconds=1800&locale=en" alt="lyh-cf" /> </div>
 
 
 ### How to reach me 📫 
